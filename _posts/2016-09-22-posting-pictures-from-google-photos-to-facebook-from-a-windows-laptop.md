@@ -7,7 +7,7 @@ slug: posting-pictures-from-google-photos-to-facebook-from-a-windows-laptop
 title: Posting pictures from Google Photos to Facebook using a Windows Laptop
 tags:
 - facebook
-- google photos
+- photos
 - picasa
 - windows
 ---
@@ -70,36 +70,8 @@ You can edit your photos locally using Windows Photos app (or any other app) an
 
 You can use a Windows Pictures and Google Drive to access your Google Photos library locally and also share pictures to other Windows store apps such as Facebook in the same way as you would on a Tablet or Phone.
 
+Unfortunately 2 way sync is not fully supported, so any changes made locally to the photos will only be backed to Google Drive and not to Google Photos.
 
+I could not find a Google Photos app in the Windows App Store.  That would make everything a lot easier.   There is an app called "Client for Google Photos Free" but it would only share links, and they also have a paid version which I did not try.
 
-
-
-
-
-Unfortunately 2 way sync is fully supported, so any changes made locally to the photos will only be backed to Google Drive and not to Google Photos.
-
-
-
-
-
-
-
-
-
-
-
-
-I could not find a Google Photos app in the Windows App Store (come on Google...?).  That would make everything a lot easier.   There is an app called "Client for Google Photos Free" but it would only share links, and they also have a paid version which I did not try.
-
-
-
-
-
-
-
-
-
-
-
-
-For people coming from Picasa,  I think this is a good alternative to using Google Photos from the browser.
+For people coming from Picasa,  this could be an alternative to using Google Photos from the browser.
