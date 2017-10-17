@@ -64,7 +64,7 @@ I did not have too much content here, so I just opened 2 browsers side by side a
 
 This was the biggest pain point.  I had over 500 starred locations to migrate.  It's possible to export the locations, create KML, and create a custom map (see [here](https://productforums.google.com/forum/#!msg/maps/Zp7LFnk5s3c/f3Ek6PxBk4kJ)), but this is not the same as having the nice stars overlayed on the map.
 
-After some failed attempts to replay modified http requests from the console, I gave up and tried to find an efficient manual approach.
+After some failed attempts to modify and replay http requests from the console, I gave up and tried to find an efficient manual approach.
 
 1. Export locations from [https://www.google.com/bookmarks/](https://www.google.com/bookmarks/)
 2. Split the file into separate files with 100 links per file
