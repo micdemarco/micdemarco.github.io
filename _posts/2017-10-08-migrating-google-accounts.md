@@ -40,7 +40,7 @@ I attempted to move all my content across from the old address without any epic 
 Migrating google drive was easy with the following steps
 
 1. Select all files from old account (CTRL+A)
-2. Add new account
+2. Sharing -> add new account
 3. Change access of new account to Owner
 4. From new account select all
 5. Remove old account
@@ -71,7 +71,7 @@ After some failed attempts to replay the http requests from the console, I gave 
 3. From chrome bookmark manager click organise -> import bookmarks from html file
 4. Right click on the imported folder and Open all
 5. Turn off your brain
-6. Tab by tab click the star and close the tab with Ctrl-W.  The stars are mostly in the same place so you c
+6. Tab by tab click the star and close the tab with Ctrl-W.  The stars are mostly in the same place.
 7. Repeat
 
 100 stars took about 5 minutes.  Total time to do everything about 1 hr.  
