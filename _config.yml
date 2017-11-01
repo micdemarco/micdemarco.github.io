@@ -75,7 +75,7 @@ analytics:
 author:
   name             : "Michael De Marco"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Full stack developer / traveller.  I program mostly in typescript and c#.  Right now into aspnet core, angular and ionic"
+  bio              : "Full stack developer / traveller.  I program mostly in typescript and c#.  Right now into angular, firebase and ionic"
   location         : "Australia"
   email            : "micydem@gmail.com"
   uri              :
